@@ -24,11 +24,9 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
 - 🎓 **Education & Certification**: B.Tech Computer Science Engineering @ MIT WPU | Certified Ethical Hacker (CEH)
 - 📍 **Base**: Pune, Maharashtra, India
 
-<br />
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:00ff88&height=85&section=header&text=Engineered%20Production%20Platforms&fontSize=22&animation=fadeIn" width="100%" alt="Platforms Banner" />
-
-<br />
+## 🛠️ Engineered Production Platforms
 
 <table width="100%">
   <tr>
@@ -61,11 +59,9 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
   </tr>
 </table>
 
-<br />
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:2563eb&height=85&section=header&text=Tech%20Stack%20%26%20Architecture&fontSize=22&animation=fadeIn" width="100%" alt="Tech Stack Banner" />
-
-<br />
+## ⚡ Tech Stack & Core Competencies
 
 ```
 [LANGUAGES]    JavaScript (ES6+) | TypeScript | Python | C/C++ | SQL | HTML5 / CSS3
