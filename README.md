@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ PIYUSH GAYAKI
-### **Chief Operating Officer (COO) @ BJG Technologies Pvt. Ltd.**
-*Quantitative Trading Specialist & Institutional Full-Stack Systems Architect*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:00ff88,100:2563eb&height=210&section=header&text=PIYUSH%20GAYAKI&fontSize=42&desc=Chief%20Operating%20Officer%20(COO)%20@%20BJG%20Technologies%20Pvt.%20Ltd.&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
+
+<br />
 
 [![Website](https://img.shields.io/badge/Portfolio-piyushgayaki.com-00f0ff?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushgayaki.com/)
 [![Company](https://img.shields.io/badge/Company-BJG_Technologies_Pvt_Ltd-00ff88?style=for-the-badge&logo=buffer&logoColor=black)](https://piyushgayaki.com/#corporate)
@@ -24,9 +24,11 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
 - 🎓 **Education & Certification**: B.Tech Computer Science Engineering @ MIT WPU | Certified Ethical Hacker (CEH)
 - 📍 **Base**: Pune, Maharashtra, India
 
----
+<br />
 
-## 🛠️ Engineered Production Platforms
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:00ff88&height=85&section=header&text=Engineered%20Production%20Platforms&fontSize=22&animation=fadeIn" width="100%" alt="Platforms Banner" />
+
+<br />
 
 <table width="100%">
   <tr>
@@ -59,9 +61,11 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
   </tr>
 </table>
 
----
+<br />
 
-## ⚡ Tech Stack & Core Competencies
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:2563eb&height=85&section=header&text=Tech%20Stack%20%26%20Architecture&fontSize=22&animation=fadeIn" width="100%" alt="Tech Stack Banner" />
+
+<br />
 
 ```
 [LANGUAGES]    JavaScript (ES6+) | TypeScript | Python | C/C++ | SQL | HTML5 / CSS3
@@ -90,34 +94,7 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
 
 </div>
 
----
-
-## 📊 GitHub Analytics & Operational Metrics
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:00ff88&height=120&section=header&text=Piyush%20Gayaki%20//%20Analytics&fontSize=26&animation=fadeIn" width="100%" alt="Header Banner" />
-
 <br />
-
-| Metric | System Record | Verification |
-| :--- | :--- | :--- |
-| **Corporate Entity** | BJG Technologies Private Limited | `CIN: U62011PN2026PTC258163` |
-| **Executive Title** | Chief Operating Officer (COO) | RoC-Pune Registered |
-| **Quantitative Assets** | 50 Lakhs+ AUM | Systematic Algorithmic Equity |
-| **Total Contributions** | 205+ Commits | Year 2026 Active |
-| **Public Systems** | 17 Repositories | Production Engineered |
-
-<br />
-
-[![Contributions](https://img.shields.io/badge/Total_Contributions-205%2B_in_2026-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PiyushGayaki)
-[![Repositories](https://img.shields.io/badge/Public_Repositories-17_Projects-00f0ff?style=for-the-badge&logo=git&logoColor=black)](https://github.com/PiyushGayaki?tab=repositories)
-[![Company Status](https://img.shields.io/badge/Executive_Status-COO_%40_BJG_Technologies-ff3366?style=for-the-badge&logo=buffer&logoColor=white)](https://piyushgayaki.com/#corporate)
-[![Portfolio Domain](https://img.shields.io/badge/Live_Domain-piyushgayaki.com-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushgayaki.com/)
-
-</div>
-
----
 
 <div align="center">
 
@@ -128,6 +105,10 @@ For institutional software architecture inquiries or quantitative trading consul
 📧 **Email**: [contact@piyushgayaki.com](mailto:contact@piyushgayaki.com)  
 🌐 **Website**: [https://piyushgayaki.com/](https://piyushgayaki.com/)  
 📞 **Phone**: [+91 9527521390](tel:+919527521390)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:00ff88,100:00f0ff&height=90&section=footer" width="100%" alt="Footer Wave" />
 
 *© BJG TECHNOLOGIES PRIVATE LIMITED // ALL_SYSTEMS_GO*
 
