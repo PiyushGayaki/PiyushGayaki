@@ -92,12 +92,19 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Production Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushGayaki&show_icons=true&theme=dark&bg_color=090d16&title_color=00f0ff&text_color=94a3b8&icon_color=00ff88&border_color=00f0ff22" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushGayaki&layout=compact&theme=dark&bg_color=090d16&title_color=00f0ff&text_color=94a3b8&border_color=00f0ff22" height="175" alt="Top Languages" />
+<a href="https://github.com/PiyushGayaki">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushGayaki&theme=dark&background=090d16&border=00f0ff&stroke=00f0ff&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&sideTitle=00f0ff&currStreakLabel=00ff88" alt="GitHub Streak Stats" />
+</a>
+
+<br /><br />
+
+[![Contributions](https://img.shields.io/badge/Total_Contributions-205%2B_in_2026-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PiyushGayaki)
+[![Repositories](https://img.shields.io/badge/Public_Repositories-17_Projects-00f0ff?style=for-the-badge&logo=git&logoColor=black)](https://github.com/PiyushGayaki?tab=repositories)
+[![Company Status](https://img.shields.io/badge/Executive_Status-COO_%40_BJG_Technologies-ff3366?style=for-the-badge&logo=buffer&logoColor=white)](https://piyushgayaki.com/#corporate)
 
 </div>
 
