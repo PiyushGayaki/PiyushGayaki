@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-piyushgayaki.com-00f0ff?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushgayaki.com/)
 [![Company](https://img.shields.io/badge/Company-BJG_Technologies_Pvt_Ltd-00ff88?style=for-the-badge&logo=buffer&logoColor=black)](https://piyushgayaki.com/#corporate)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushgayaki/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-gayaki-760826285/)
 [![Email](https://img.shields.io/badge/Email-contact%40piyushgayaki.com-ff3366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@piyushgayaki.com)
 
 ---
