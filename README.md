@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:00ff88,100:2563eb&height=210&section=header&text=PIYUSH%20GAYAKI&fontSize=42&desc=Chief%20Operating%20Officer%20(COO)%20@%20BJG%20Technologies%20Pvt.%20Ltd.&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:00ff88,100:2563eb&height=210&section=header&text=PIYUSH%20GAYAKI&fontSize=42&desc=Co-Founder%20%26%20Chief%20Operating%20Officer%20(COO)%20@%20BJG%20Technologies%20Pvt.%20Ltd.&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <br />
 
@@ -15,7 +15,7 @@
 
 ## 🌐 Executive Overview
 
-I am the **Chief Operating Officer (COO)** at **BJG Technologies Private Limited** *(CIN: U62011PN2026PTC258163, RoC Pune)*. 
+I am the **Co-Founder & Chief Operating Officer (COO)** at **BJG Technologies Private Limited** *(CIN: U62011PN2026PTC258163, RoC Pune)*. 
 
 My expertise bridges **quantitative finance** and **institutional-grade technology infrastructure** — specializing in high-concurrency algorithm execution, zero-trust cloud architectures, and full-stack software systems built for high performance and operational integrity.
 
