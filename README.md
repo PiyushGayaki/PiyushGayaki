@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:00ff88,100:2563eb&height=210&section=header&text=PIYUSH%20GAYAKI&fontSize=42&desc=Co-Founder%20%26%20Chief%20Operating%20Officer%20(COO)%20@%20BJG%20Technologies%20Pvt.%20Ltd.&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:00ff88,100:2563eb&height=210&section=header&text=PIYUSH%20GAYAKI&fontSize=42&desc=Co-Founder%20and%20Chief%20Operating%20Officer%20(COO)%20@%20BJG%20Technologies%20Pvt.%20Ltd.&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <br />
 
@@ -32,13 +32,13 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ UPGEAR24</h3>
-      <p><strong>Automotive POS & Inventory Platform</strong></p>
-      <p>Enterprise Point-Of-Sale, stock precision & automated WhatsApp digital invoice dispatch platform built for automotive gear retailers.</p>
+      <p><strong>Automotive POS &amp; Inventory Platform</strong></p>
+      <p>Enterprise Point-Of-Sale, stock precision &amp; automated WhatsApp digital invoice dispatch platform built for automotive gear retailers.</p>
       <p>👉 <a href="https://www.upgear24.com/"><strong>www.upgear24.com ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📜 SchwetKhata</h3>
-      <p><strong>All-in-One Digital Ledger & Tally Engine</strong></p>
+      <p><strong>All-in-One Digital Ledger &amp; Tally Engine</strong></p>
       <p>Digital Udhaari ledger, Dairy milk delivery manager, Barcode POS billing and automated 1-click Tally accounting export system.</p>
       <p>👉 <a href="https://www.schwetkhata.com/"><strong>www.schwetkhata.com ↗</strong></a></p>
     </td>
@@ -46,7 +46,7 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
   <tr>
     <td width="50%" valign="top">
       <h3>🥛 Apte Dairy</h3>
-      <p><strong>Smart Milk Distribution & Subscription Logistics</strong></p>
+      <p><strong>Smart Milk Distribution &amp; Subscription Logistics</strong></p>
       <p>Automated milk delivery platform featuring daily subscription schedules, RazorPay wallet payment gateway, and route optimization.</p>
       <p>👉 <a href="https://aptedairy.vercel.app/"><strong>aptedairy.vercel.app ↗</strong></a></p>
     </td>
@@ -61,7 +61,7 @@ My expertise bridges **quantitative finance** and **institutional-grade technolo
 
 ---
 
-## ⚡ Tech Stack & Core Competencies
+## ⚡ Tech Stack &amp; Core Competencies
 
 ```
 [LANGUAGES]    JavaScript (ES6+) | TypeScript | Python | C/C++ | SQL | HTML5 / CSS3
